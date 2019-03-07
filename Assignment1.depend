@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1551959538 source:c:\users\bahaa\google drive\year 2\semester 2\c\lab4\assignment1\word_game.c
+	<stdio.h >
+	<stdbool.h>
+
+1551970464 source:c:\users\bahaa\google drive\year 2\semester 2\c\lab4\assignment1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"word_game.h"
+	<stdbool.h>
+
+1551957374 c:\users\bahaa\google drive\year 2\semester 2\c\lab4\assignment1\word_game.h
+	<stdbool.h>
+
